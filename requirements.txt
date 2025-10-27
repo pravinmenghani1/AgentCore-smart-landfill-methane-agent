@@ -3,3 +3,6 @@ pandas
 reportlab
 matplotlib
 PyYAML
+agentcore
+strands-sdk
+asyncio
